@@ -1,2 +1,2 @@
 # AnnotationUsage
-annotation usage of demo
+一个用于演示java注解如何使用的demo
